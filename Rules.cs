@@ -20,7 +20,7 @@ namespace Robocode
                 Console.WriteLine("Bots programmed in Java or C#");
                 Console.WriteLine("Teams of one to two programmers");
                 Console.WriteLine("Teams must be registered in the AI4G School");
-                Console.WriteLine(" Tournament will be by single elimination playoffs, best of three battles");
+                Console.WriteLine("Tournament will be by single elimination playoffs, best of three battles");
                 Console.WriteLine("Teams can be declassified if they use external code"); }
 
             if (part==0)
